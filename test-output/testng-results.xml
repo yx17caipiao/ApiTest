@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="All Test Suite" duration-ms="22" started-at="2018-03-07T06:56:23Z" finished-at="2018-03-07T06:56:23Z">
+    <groups>
+    </groups>
+    <test name="testNg1" duration-ms="22" started-at="2018-03-07T06:56:23Z" finished-at="2018-03-07T06:56:23Z">
+      <class name="com.yxkj.yqcp.test.TestMain">
+        <test-method status="PASS" signature="TestNgLearn()[pri:0, instance:com.yxkj.yqcp.test.TestMain@3ecf72fd]" name="TestNgLearn" duration-ms="5" started-at="2018-03-07T06:56:23Z" finished-at="2018-03-07T06:56:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestNgLearn -->
+      </class> <!-- com.yxkj.yqcp.test.TestMain -->
+    </test> <!-- testNg1 -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
